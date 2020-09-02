@@ -1,15 +1,14 @@
 {
   "name": "chisel",
-  "version": "2",
-  "description": "Development Portal for Educational Purposes",
-  "main": "index.js",
-  "repository": "https://github.com/sakhib-orzklv/chisel.git",
-  "author": "Sokhibjon Orzikulov <sakhib.orzklv@icloud.com>",
+  "version": "2.0.0",
+  "description": "Centralized Work Service",
+  "repository": "https://github.com/genestatic/chisel.git",
+  "author": "Genemator Sakhib <genemators@gmail.com>",
   "license": "GNU Lesser General Public License v3.0",
   "private": true,
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:dev": "vuepress dev src",
+    "docs:build": "vuepress build src"
   },
   "dependencies": {
     "sweetalert": "^2.1.2",

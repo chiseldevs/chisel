@@ -1,13 +1,13 @@
 <p align="center">
   <a href="https://t.me/bsba_group">
-    <img src="docs/.vuepress/public/assets/header-logo.png" width="180" height="180">
+    <img src="src/.vuepress/public/assets/header-logo.png" width="180" height="180">
   </a>
   <h1 align="center">Chisel</h1>
 </p>
 
 <p align="center">
   <a href="https://app.netlify.com/sites/chisel/deploys">
-    <img src="https://api.netlify.com/api/v1/badges/dabd2981-829c-4742-8b1b-115ab03e24cc/deploy-status">
+    <img src="https://api.netlify.com/api/v1/badges/1180daa0-df1b-4259-b0cb-d56926833117/deploy-status">
   </a>
 </p>
 
