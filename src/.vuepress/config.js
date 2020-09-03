@@ -233,7 +233,7 @@ module.exports = {
                   },
                   {
                     text: "GitHub",
-                    link: "https://github.com/genestatic",
+                    link: "https://github.com/chiseldevs",
                     target: "_blank",
                   },
                 ],
@@ -241,37 +241,36 @@ module.exports = {
             ],
           },
           {
-            text: "Languages",
-            ariaLabel: "Programming Languages",
+            text: "Modules",
+            ariaLabel: "Modules",
             items: [
+              // {
+              //   text: "1st Year",
+              //   items: [
+              //     {
+              //       text: "BIS",
+              //       link: "https://bis.chisel.uz/",
+              //       target: "_self",
+              //     },
+              //     {
+              //       text: "Business",
+              //       link: "https://bs.chisel.uz/",
+              //       target: "_self",
+              //     },
+              //   ],
+              // },
               {
-                text: "Python",
+                text: "2nd Year",
                 items: [
                   {
-                    text: "CPython",
-                    link: "https://www.python.org/",
+                    text: "BIS",
+                    link: "https://bis.chisel.uz/",
                     target: "_self",
                   },
                   {
-                    text: "Brython",
-                    link: "https://brython.info/",
+                    text: "Business",
+                    link: "https://bs.chisel.uz/",
                     target: "_self",
-                  },
-                  { text: "PyJS", link: "http://pyjs.org/", target: "_self" },
-                ],
-              },
-              {
-                text: "JavaScript",
-                items: [
-                  {
-                    text: "Deno",
-                    link: "https://deno.land/",
-                    target: "_blank",
-                  },
-                  {
-                    text: "Node.JS",
-                    link: "https://nodejs.org/en/",
-                    target: "_blank",
                   },
                 ],
               },
