@@ -8,7 +8,7 @@
 
 <br>
 
-**Welcome to our website & organisation!**
+<h1 align="center"><b>Welcome to our website & organisation!</b></h1>
 
 **This website was created in order to help WIUT's students to manage with outsourcing infos and help them to focus on their education way better.
 To do that, we organized a website where they can get, share or contribute information!**
