@@ -14,7 +14,6 @@
 Bizning dasturchilarimiz C, C++, Javascript, Java, Python, Kotlin kabi dasturlash tillarida dastur yozishadi.
 Grafik dizayninga kelsak, bizning guruh a'zolarimiz ko'pincha Cinema 4D va deyarli hamma Adobe mahsulotlaridan be'malol foydalanishadi**
 
-
 **Ishonamizki, bizning qo'llanmamiz sizga xush keladi va foydali bo'lib qoladi. Biz bu proyekt boshlagan paytimizda bu proyekt hoh boshlanuvchi, hoh professional, har qanday dasturchi uchun katta va foydali informatsion baza deb bildik. Hamma, ya'ni shu qo'llanmada yozilgan informatsiyalar o'zimizning kelib chiqqan tajribalarimizdan yozilgan. Shuningdek, informatsiya qo'yishdan avval, bu narsa avvalambor yozuvchining qurilmalarida testdan o'tkaziladi. So'ngra, ulashiladi.**
 
 **Bizning adminlarimiz:**
@@ -22,13 +21,16 @@ Grafik dizayninga kelsak, bizning guruh a'zolarimiz ko'pincha Cinema 4D va deyar
 |:------------------------------------------------------: |
 
 | [**Itsuki Jayden (Abddulloh)**](https://bsba.uz/itsukijayden) |
-|:------------------------------------------------------------: |
+| :-----------------------------------------------------------: |
+
 
 | [**Nagai Matsuge (Bobur)**](https://bsba.uz/nagaimatsuge) |
-|:--------------------------------------------------------: |
+| :-------------------------------------------------------: |
+
 
 | [**Mr Abdurakhimov (Muhammadyusuf)**](https://bsba.uz/mrabdurakhimov) |
-|:--------------------------------------------------------------------: |
+| :-------------------------------------------------------------------: |
+
 
 **Faxriy aktiv ishtirokchilarimiz:**
 | [**Bizning guruhimizga qo'shiling va bizga qo'llanma to'ldirishda yordamlashing!**](https://t.me/iblogs_community) |
