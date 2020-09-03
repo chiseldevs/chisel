@@ -20,7 +20,8 @@ To do that, we organized a website where they can get, share or contribute infor
 |:------------------------------------------------------: |
 
 | [**Versatile (Rustam Karimov) <Junior Dev>**](https://t.me/rustam_karimov) |
-| :-----------------------------------------------------------: |
+| :------------------------------------------------------------------------: |
+
 
 **Our active contributors:**
 | [**Join our organisation to start contributing!**](https://github.com/chiseldevs) |
