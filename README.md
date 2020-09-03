@@ -26,7 +26,7 @@ below:
 
 ```bash
 // Clone the project
-git clone https://github.com/sakhib-orzklv/chisel.git ./chisel
+git clone https://github.com/chiseldevs/chisel.git ./chisel
 
 // Enter the project root folder
 cd chisel
