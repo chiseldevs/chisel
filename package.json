@@ -2,7 +2,7 @@
   "name": "chisel",
   "version": "2.0.0",
   "description": "Centralized Work Service",
-  "repository": "https://github.com/genestatic/chisel.git",
+  "repository": "https://github.com/chiseldevs/chisel.git",
   "author": "Genemator Sakhib <genemators@gmail.com>",
   "license": "GNU Lesser General Public License v3.0",
   "private": true,
