@@ -10,32 +10,22 @@
 
 **We are just a service center** Test Test Testygyguhuyg
 
-**Bizning guruhimiz Full-Stack Web va Dastur yaratuvchi dasturchilardan iborat. Yana, Grafik Dizayner va Musiqa yaratuvchilari ham mavjud.
-Bizning dasturchilarimiz C, C++, Javascript, Java, Python, Kotlin kabi dasturlash tillarida dastur yozishadi.
-Grafik dizayninga kelsak, bizning guruh a'zolarimiz ko'pincha Cinema 4D va deyarli hamma Adobe mahsulotlaridan be'malol foydalanishadi**
+**This website was built in order to help WIUT's students to manage with outsourcing infos and help them to focus on their education way better.
+To do that, we organized a website where they can get, share or contribute informations!**
 
-**Ishonamizki, bizning qo'llanmamiz sizga xush keladi va foydali bo'lib qoladi. Biz bu proyekt boshlagan paytimizda bu proyekt hoh boshlanuvchi, hoh professional, har qanday dasturchi uchun katta va foydali informatsion baza deb bildik. Hamma, ya'ni shu qo'llanmada yozilgan informatsiyalar o'zimizning kelib chiqqan tajribalarimizdan yozilgan. Shuningdek, informatsiya qo'yishdan avval, bu narsa avvalambor yozuvchining qurilmalarida testdan o'tkaziladi. So'ngra, ulashiladi.**
+**We hope that WIUT's students will profit from that project.**
 
-**Bizning adminlarimiz:**
-| [**Genemator (Sohibqiron)**](https://bsba.uz/genemator) |
+**Our admins for now:**
+| [**Genemator Sakhib (Sokhibkiron Orzikulov) <Senior Dev>**](https://genemator.me) |
 |:------------------------------------------------------: |
 
-| [**Itsuki Jayden (Abddulloh)**](https://bsba.uz/itsukijayden) |
+| [**Versatile (Rustam Karimov) <Junior Dev>**](https://t.me/rustam_karimov) |
 | :-----------------------------------------------------------: |
 
-
-| [**Nagai Matsuge (Bobur)**](https://bsba.uz/nagaimatsuge) |
-| :-------------------------------------------------------: |
-
-
-| [**Mr Abdurakhimov (Muhammadyusuf)**](https://bsba.uz/mrabdurakhimov) |
-| :-------------------------------------------------------------------: |
-
-
-**Faxriy aktiv ishtirokchilarimiz:**
-| [**Bizning guruhimizga qo'shiling va bizga qo'llanma to'ldirishda yordamlashing!**](https://t.me/iblogs_community) |
+**Our active contributors:**
+| [**Join our organisation to start contributing!**](https://github.com/chiseldevs) |
 | :----------------------------------------------------------------------------------------------------------: |
 
-::: tip Diqqat!
-Qo'llanma har hafta tekshiruvdan o'tadi va yangilanadi. O'zgarishlarni ko'zdan kechirish uchun GitHub sahifamizga o'ting!
+::: tip Attention!!!
+The manual is daily updated! Feel free to ask your questions from admins via our assistant bots.
 :::
