@@ -39,6 +39,8 @@ yarn run docs:build && mv docs/.vuepress/dist ./dist
 
 > Important Note: Under the GNU Lesser General Public License v3.0 license, if you're running your own instance, you should add a link to the source [(this repository)](/) in your websites bio. If you're modifying this source and making your own website, you should link to the source of your own version of the website according to the GNU Lesser General Public License v3.0 license. Check [LICENSE](LICENSE) for more info.
 
+<p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
+
 <p align="center">Copyright &copy; 2020 <a href="https://chisel.uz" target="_blank">Chisel Devs</a></p>
 
 <p align="center"><a href="https://github.com/chiseldevs/westman/blob/develop/LICENSE.md"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=License&message=GPL-3.0&logoColor=eceff4&logo=github&colorA=4c566a&colorB=88c0d0"/></a></p>
