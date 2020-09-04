@@ -1,15 +1,6 @@
-<p align="center">
-  <a href="https://t.me/chiseldevs">
-    <img src="src/.vuepress/public/assets/header-logo.png" width="180" height="180">
-  </a>
-  <h1 align="center">Chisel Devs</h1>
-</p>
-
-<p align="center">
-  <a href="https://app.netlify.com/sites/chisel/deploys">
-    <img src="https://api.netlify.com/api/v1/badges/1180daa0-df1b-4259-b0cb-d56926833117/deploy-status">
-  </a>
-</p>
+<p align="center"><a href="https://chisel.uz" target="_blank"><img height="300" width="300" src="https://raw.githubusercontent.com/chiseldevs/westman/master/assets/logo.png"/></a></p>
+<h2 align="center">Chisel Devs</h2>
+<p align="center"><a href="https://app.netlify.com/sites/chisel/deploys"><img src="https://api.netlify.com/api/v1/badges/1180daa0-df1b-4259-b0cb-d56926833117/deploy-status"></a></p>
 
 **Chisel Devs** is written in Node JS with _Vue JS_. A website that can serve as a guide book for WIUT students.
 
