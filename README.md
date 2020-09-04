@@ -4,10 +4,9 @@
 <p align="center"> Centralized Data Center for <a href="https://wiut.uz" target="_blank">WIUT</a>'s students.</p>
 <p align="center">Start using our datas or share your own ones in our <a href="https://chisel.uz" target="_blank">website</a>.</p>
 
-**Chisel Devs** is written in Node JS with _Vue JS_. A website that can serve as a guide book for WIUT students.
-
 ## Preliminaries
 
+**Chisel Devs** is written in Node JS with _Vue JS_. A website that can serve as a guide book for WIUT students.
 Currently, this application runs in Netlify and it's still in beta phase! If you want to become a collaborator, PM with one
 of the Chisel Devs Admins and get Contributor status in our organisation.
 
