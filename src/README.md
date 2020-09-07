@@ -16,4 +16,4 @@ footer: GNU Lesser General Public License v3.0 | Copyright © 2020 Chisel Devs
 ---
 
 <p align="center">
- <a href="https://app.netlify.com/sites/chisel/deploys"><img src="https://api.netlify.com/api/v1/badges/1180daa0-df1b-4259-b0cb-d56926833117/deploy-status"></a></p>
+<a href="https://app.netlify.com/sites/chisel/deploys"><img src="https://api.netlify.com/api/v1/badges/1180daa0-df1b-4259-b0cb-d56926833117/deploy-status"></a></p>
