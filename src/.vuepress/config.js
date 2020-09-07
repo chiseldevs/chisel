@@ -196,7 +196,7 @@ module.exports = {
           },
           {
             text: "Issues",
-            link: "https://github.com/genestatic/chisel/issues",
+            link: "https://github.com/chiseldevs/chisel/issues",
             target: "_self",
           },
           {
