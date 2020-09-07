@@ -2,8 +2,7 @@
 
 <br>
 
-<div align="center">
-<img src="/assets/logo.png" height="400" width="400" alt="Chisel Devs"></div>
+<div align="center"><img src="/assets/logo.png" height="400" width="400" alt="Chisel Devs"></div>
 
 <br>
 
