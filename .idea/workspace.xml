@@ -20,45 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57b52a39-5393-450f-b9e0-81ac52d629dd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/components/MySWUpdatePopup.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/enhanceApp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/android-icon-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/android-icon-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/android-icon-36x36.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/android-icon-48x48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/android-icon-72x72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/android-icon-96x96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/apple-icon-114x114.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/apple-icon-120x120.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/apple-icon-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/apple-icon-152x152.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/apple-icon-180x180.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/apple-icon-57x57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/apple-icon-60x60.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/apple-icon-72x72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/apple-icon-76x76.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/apple-icon-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/apple-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/browserconfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/favicon-96x96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/ms-icon-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/ms-icon-150x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/ms-icon-310x310.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/ms-icon-70x70.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/header-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/styles/index.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/styles/palette.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/about/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +52,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\chisel" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/chisel/dist/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
@@ -109,7 +77,7 @@
       <updated>1600861777402</updated>
       <workItem from="1600861778414" duration="1875000" />
       <workItem from="1601146309857" duration="439000" />
-      <workItem from="1601399890326" duration="318000" />
+      <workItem from="1601399890326" duration="473000" />
     </task>
     <servers />
   </component>
