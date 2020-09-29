@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="57b52a39-5393-450f-b9e0-81ac52d629dd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/components/MySWUpdatePopup.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/enhanceApp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/android-icon-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/android-icon-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/android-icon-36x36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/android-icon-48x48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/android-icon-72x72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/android-icon-96x96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/apple-icon-114x114.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/apple-icon-120x120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/apple-icon-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/apple-icon-152x152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/apple-icon-180x180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/apple-icon-57x57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/apple-icon-60x60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/apple-icon-72x72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/apple-icon-76x76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/apple-icon-precomposed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/apple-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/browserconfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/favicon-16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/favicon-96x96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/ms-icon-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/ms-icon-150x150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/ms-icon-310x310.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/favicons/ms-icon-70x70.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/header-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/styles/index.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/styles/palette.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/about/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1huX6kpEF8hgtKdxBXPHdBEeLeS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/dist/style.css" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/chisel/dist/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57b52a39-5393-450f-b9e0-81ac52d629dd" name="Default Changelist" comment="" />
+      <created>1600861777402</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600861777402</updated>
+      <workItem from="1600861778414" duration="1875000" />
+      <workItem from="1601146309857" duration="439000" />
+      <workItem from="1601399890326" duration="318000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1879" height="276" key="GridCell.Tab.0.bottom" timestamp="1600862889294">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="276" key="GridCell.Tab.0.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1600862889294" />
+    <state width="1879" height="276" key="GridCell.Tab.0.center" timestamp="1600862889294">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="276" key="GridCell.Tab.0.center/0.40.1920.1040@0.40.1920.1040" timestamp="1600862889294" />
+    <state width="1879" height="276" key="GridCell.Tab.0.left" timestamp="1600862889294">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="276" key="GridCell.Tab.0.left/0.40.1920.1040@0.40.1920.1040" timestamp="1600862889294" />
+    <state width="1879" height="276" key="GridCell.Tab.0.right" timestamp="1600862889294">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="276" key="GridCell.Tab.0.right/0.40.1920.1040@0.40.1920.1040" timestamp="1600862889294" />
+  </component>
+</project>
